@@ -1,7 +1,2 @@
 
-  git clone <repo-url>
-cd <repo-name>
-# set up your local environment (install dependencies, etc.)
-git add .
-git commit -m "cloned repo and set up local environment"
-git push
+ 
